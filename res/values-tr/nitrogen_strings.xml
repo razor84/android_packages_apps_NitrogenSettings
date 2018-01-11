@@ -541,4 +541,7 @@
     <!-- QS footer warnings -->
     <string name="qs_footer_warnings_title">Hızlı ayar altbilgi uyarıları</string>
     <string name="qs_footer_warnings_summary">Ağ harici uygulamalar veya VPN tarafından izlendiğinizde hızlı ayarlar panelinin altına bir uyarı gösterir</string>
+	
+    <string name="qs_tile_title_visibility_title">Hızlı ayarlar kare başlıkları</string>
+    <string name="qs_tile_title_visibility_summary">Hızlı ayarlar kare başlıklarını göster</string>
 </resources>
